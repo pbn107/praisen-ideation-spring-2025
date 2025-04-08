@@ -33,6 +33,12 @@ LikeIm5 takes a screenshot of whatever page you're on, and sends it to an LLM wi
 3. As an ESL learner, I want to better understand English articles so that I can expand my vocabulary and reading comprehension.
 4. As a software engineer, I want to simplify documentation pages so that I can quickly get the gist without digging through jargon.
 5. As a casual learner, I want to understand news articles about topics I’m unfamiliar with so that I can stay informed without confusion.
+6. As a high school student, I want to break down confusing textbook websites so that I can prepare for exams more effectively.
+7. As a parent helping my child with homework, I want to understand online educational resources so that I can explain them clearly.
+8. As a curious reader, I want to simplify Wikipedia pages so that I can quickly learn about complex topics without feeling lost.
+9. As a product manager, I want to break down technical blog posts and whitepapers so that I can make informed decisions without relying on engineers.
+10. As a visually impaired user using screen readers, I want simplified content summaries so that I can process dense material more easily and quickly.
+
 
 ## Notes
 
