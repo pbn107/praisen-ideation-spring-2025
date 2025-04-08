@@ -21,16 +21,18 @@ Summarize unread emails in your inbox and generate a summary and a to-do list.
 1. Create a to-do list automatically
 2. Summarize all the information
 3. Conversational mode — Ask “what do I need to do today?” and get a quick reply
-4. [Selling Point 4]
-5. [Selling Point 5]
+4. Get smart reminders for deadlines or follow-ups
+5. Use LLM to generate a reply for the emails
 
 ## User Stories
-
-_[List user stories that describe the main features of your Chrome Extension. Use the following template: "As a [user role], I want to [goal] so that [benefit]." Fill in the brackets with the appropriate information. For Round 1, write 5 user stories; Round 2, write 10 user stories; Round 3, write 15 user stories.]_
 As a student, I want to get a summary of all my unread emails so that I can catch up quickly after class.
-## Notes
+As a working professional, I want to generate a to-do list from my emails so that I don’t forget any important action items.
+As a busy user, I want to see deadlines or dates highlighted from my emails so that I don’t miss any meetings or events.
+As a project manager, I want to assign to-do items from emails to teammates so that I can delegate tasks directly from my inbox.
+As a user with multiple email accounts, I want to switch between inboxes in the extension so that I can manage all my tasks in one place.
 
-_[Add any additional notes or considerations for your Chrome Extension idea. This could include potential challenges, alternative approaches, or specific features you want to highlight.]_
+## Notes
+A challenge can be accessing and parsing email content
 
 ## References & Inspiration
 
