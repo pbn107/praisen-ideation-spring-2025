@@ -55,7 +55,23 @@ _[List user stories that describe the main features of your Chrome Extension. Us
 ## Notes
 
 _[Add any additional notes or considerations for your Chrome Extension idea. This could include potential challenges, alternative approaches, or specific features you want to highlight.]_
+Requires OAuth integration with Google Calendar API
+
+Natural-language generation can be rule-based for MVP, with option to improve via ML/NLP later
+
+May use regex or pattern matching to detect scheduling request emails
+
+Could include settings like “Only suggest mornings” or “Avoid Fridays”
+
+Consider edge cases like conflicting meetings or all-day events
+
+Must handle different time zones and calendar conflicts gracefully.
+
+Could include settings for default meeting lengths, working hours, or preferred days.
 
 ## References & Inspiration
 
 _[Include any references or sources that inspired your Chrome Extension idea. This could be articles, existing products, or other resources that informed your concept. Just paste any links you found during research.]_
+https://developers.google.com/workspace/calendar
+https://chatgpt.com/share/67f52bca-eb64-8005-b3a7-ddf74f5ffe1c
+https://www.read.ai/extension
