@@ -41,7 +41,7 @@ User Stories
 As an online shopper, I want to summarize Amazon reviews with one click so that I can make quick and informed buying decisions.
 
 
-As a mobile-first user, I want to view a clean summary instead of scrolling through long reviews so that I can browse more efficiently on my phone.
+As a user, I want to view a clean summary instead of scrolling through long reviews so that I can browse more efficiently on my laptop.
 
 
 As a tech-savvy consumer, I want to see common pros and cons so that I understand both strengths and weaknesses of a product.
@@ -53,6 +53,19 @@ As an accessibility-focused user, I want to get key product info summarized so t
 As a frequent Amazon shopper, I want to compare summaries across products quickly so that I can pick the best option without reading hundreds of comments.
 
 
+As a budget-conscious shopper, I want to see if negative reviews mention quality or durability issues so that I avoid wasting money on poorly made products.
+
+
+As a first-time buyer, I want to quickly get the overall sentiment from verified buyers so that I feel more confident making a purchase decision.
+
+
+As a comparison shopper, I want to use the extension on multiple product tabs so that I can evaluate summaries side-by-side.
+
+
+As a non-native English speaker, I want to read simplified summaries of reviews so that I don’t have to decipher long or complex review text.
+
+
+As a time-strapped user, I want to get pros and cons without logging into anything so that I can make fast decisions with minimal effort.
 Notes
 Challenge: Avoid being blocked by rate-limiting if scraping too many reviews
 
@@ -61,4 +74,3 @@ Consideration: Could be extended to other review-heavy platforms like Yelp, eBay
 
 
 UI Ideas: Use a minimal sidebar, tooltip, or bottom card for the summary output. Match Amazon’s color scheme for seamless UX
-
