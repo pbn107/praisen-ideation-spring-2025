@@ -1,37 +1,48 @@
-# Chrome Extension Idea: [Title]
+# Chrome Extension Idea: **JobCopy Pro: Smart Prompts for LinkedIn**
 
-## Authors
+### Authors
 
-[Include your name(s) here]
+Aaron Jiang
 
-## Problem Statement
+### Problem Statement
 
-[Describe the problem that your Chrome Extension will solve. What are the pain points that users experience? How does your extension address these pain points?]
+Job seekers often rely on LinkedIn to browse job descriptions and use tools like ChatGPT to rewrite resumes, tailor cover letters, or compare required skills. However, copying the job description manually and crafting an effective prompt takes time and effort. This slows down the job application process and may result in poorly tailored materials. Our extension solves this by allowing users to copy both the job description **and** a **preset, high-quality prompt** to the clipboard in a single click, ready to paste into ChatGPT for immediate use.
 
-## Target Audience
+### Target Audience
 
-[Identify the target audience for your Chrome Extension. Who will benefit from using your extension? What are the main characteristics of your target audience?]
+This extension is designed for job seekers, students, professionals switching careers, and anyone who uses ChatGPT to assist with job applications. These users value speed, customization, and high-quality prompts to make their application stand out. It also benefits users who are new to prompt engineering and want better results from AI tools.
 
-## Description
+### Description
 
-[Provide a general description of your Chrome Extension idea in 2-3 sentences. Explain the main purpose and functionality of the extension.]
+JobCopy Pro is a Chrome Extension for LinkedIn that allows users to click a button to copy a job description along with a preset, optimized ChatGPT prompt. Users can choose from several prompt options—like “rewrite my resume,” “compare this job to my current skillset,” or “generate a custom cover letter.” This saves time and boosts the quality of AI-assisted job application workflows.
 
-## Selling Points
+### Selling Points
 
-1. [Selling Point 1]
-2. [Selling Point 2]
-3. [Selling Point 3]
-4. [Selling Point 4]
-5. [Selling Point 5]
+1. One-click job description + prompt copying from LinkedIn  
+2. Includes curated, high-performing prompts for ChatGPT  
+3. Helps users generate personalized content instantly  
+4. Reduces time spent crafting good AI inputs  
+5. Great for users new to prompt engineering or ChatGPT  
 
-## User Stories
+### User Stories
 
-_[List user stories that describe the main features of your Chrome Extension. Use the following template: "As a [user role], I want to [goal] so that [benefit]." Fill in the brackets with the appropriate information. For Round 1, write 5 user stories; Round 2, write 10 user stories; Round 3, write 15 user stories.]_
+1. As a job seeker, I want to copy a job description and a prompt together so that I can instantly paste it into ChatGPT for a resume rewrite.  
+2. As a student, I want to compare a job's requirements to my skills so that I know where I need to improve.  
+3. As someone unfamiliar with prompt writing, I want preset options that help me get better responses from ChatGPT.  
+4. As a busy professional, I want to save time by skipping manual prompt creation.  
+5. As a user, I want to choose from different types of prompts so that I can generate cover letters, summaries, or skill gap analyses.
 
-## Notes
+### Notes
 
-_[Add any additional notes or considerations for your Chrome Extension idea. This could include potential challenges, alternative approaches, or specific features you want to highlight.]_
+- The extension could include a small UI dropdown that lets users choose which type of prompt they want to copy with the job description.
+- We'll need to manage formatting so the clipboard copy is clean and properly structured.
+- Could include a “custom prompt” option where users save their own template.
+- A future update might let users paste directly into ChatGPT in another tab.
 
-## References & Inspiration
+### References & Inspiration
 
-_[Include any references or sources that inspired your Chrome Extension idea. This could be articles, existing products, or other resources that informed your concept. Just paste any links you found during research.]_
+- https://www.linkedin.com/jobs  
+- https://chat.openai.com  
+- https://promptbase.com  
+- Reddit threads about prompt engineering for job applications  
+- Chrome extensions like [Compose AI](https://www.compose.ai/) and [Copytables](https://chrome.google.com/webstore/detail/copytables)
