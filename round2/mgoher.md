@@ -1,8 +1,8 @@
-# Chrome Extension Idea: Alumni Database cold email
+# Chrome Extension Idea: AlumniConnectAI
 
 ## Authors
 
-Muhammad Abdullah Goher
+Muhammad Abdullah Goher, Alan Wu
 
 ## Problem Statement
 
