@@ -6,7 +6,6 @@ Muhammad Abdullah Goher
 
 ## Problem Statement
 
-[Describe the problem that your Chrome Extension will solve. What are the pain points that users experience? How does your extension address these pain points?]
 Cold emails and networking are integral parts of the recruiting process. However, manually navigating an alumni database, fetching each alumnus’s email, 
 and then writing a personalized cold email for every single alumnus is time-consuming and inefficient. 
 This extension aims to automate that tedious process. By doing so, it empowers students to quickly and effectively reach out to alumni, 
@@ -17,7 +16,6 @@ UPENN students (and potentially students from other universities) who are active
 
 ## Description
 
-[Provide a general description of your Chrome Extension idea in 2-3 sentences. Explain the main purpose and functionality of the extension.]
 This Chrome Extension streamlines the process of alumni outreach by automatically scraping alumni emails from the online alumni directory. 
 It then uses customizable email templates to create personalized messages for each alumnus, integrating with an email service like Mailjet to send these messages in bulk. 
 The result is a faster, more efficient way to build meaningful alumni connections for career advice, referrals, and mentorship.
