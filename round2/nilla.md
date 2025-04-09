@@ -1,5 +1,6 @@
-# Chrome Extension Idea:  
-LinkedIn Job Snatcher – A Chrome extension that, when the user is on LinkedIn, copies the current job description on the page into their clipboard and automatically opens ChatGPT, pasting the job description into the input box for easy interaction.
+# Chrome Extension Idea: LinkedIn Job Snatcher
+
+A Chrome extension that, when the user is on LinkedIn, copies the current job description on the page into their clipboard and automatically opens ChatGPT, pasting the job description into the input box for easy interaction.
 
 ## Authors  
 Nilla Orina, Aaron Jiang, Tommy Li
