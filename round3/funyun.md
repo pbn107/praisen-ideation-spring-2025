@@ -2,7 +2,7 @@
 
 ## Authors
 
-Yun Zheng, Dilini Ranaweera
+Yun Zheng, Dilini Ranaweera, Andrea González Varela, Shafaa Munjal
 
 ## Problem Statement
 
