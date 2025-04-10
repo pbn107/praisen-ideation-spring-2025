@@ -52,6 +52,10 @@ As a job seeker, I want an integrated tutorial that guides me through customizin
 
 As a job seeker, I want assurances that my personal data and cover letter content are securely handled and not shared without my consent so that I can trust the extension with my sensitive information.
 
+As a job seeker, I want the option to make the prompt ask my chatbot to download or export the final cover letter in formats like PDF or DOCX so that I can easily attach it to my job applications or share it with recruiters.
+
+As a job seeker, I want customizable cover letter template prompts that allow me to tweak the layout and tone for various roles so that I can maintain a consistent personal brand across different applications.
+
 ## Notes
 
 The primary feature will craft a prompt using the job description and the pre-written cover letters. The main work past the technical challenges is crafting the perfect prompt. Further extensions allow an optional automated feature that uses the user's API key and runs GPT automatically.
