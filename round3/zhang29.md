@@ -2,23 +2,25 @@
 
 ## Authors
 
-Cecilia Zhang, Garrett Kirsch
+Cecilia Zhang, Garrett Kirsch, Junie Guo, Sean Donovan
+
+Team 17
 
 ## Problem Statement
 
-Many Discord servers use ticketing systems to handle support requests, reports, or feedback. These tickets often generate long transcripts that are hard to parse or extract useful insights from. Users often have to scroll through cluttered messages to identify key details after transcripts.
+Many Discord servers use ticketing systems to handle support requests, reports, or feedback, especially in communities built around start-up products and tools. These tickets often generate long transcripts that are hard to parse or extract meaningful insights from. Users typically have to scroll through cluttered messages to find key information.
 
-Server admins, moderators, and community managers need a better way to generate concise summaries of ticket conversations for reporting, documentation, or follow-up actions. This extension solves that gap by allowing users to extract and immediately summarize ticket content using LLMs like ChatGPT.
+Server admins, support moderators,  community managers, or even HRs need a faster way to generate clear summaries of ticket conversations for reporting, documentation, or follow-up. This extension addresses that gap by allowing users to extract and immediately summarize ticket content from HTML transcripts using LLMs like ChatGPT.
 
 ## Target Audience
 
 - Support moderators and admins who regularly handle Discord ticket transcripts and want faster ways to summarize or review them using LLMs.
 
-- Community managers who need to extract insights or trends from support tickets without reading through full HTML transcripts.
+- Community managers who need to extract insights or trends from support tickets without reading through full transcripts.
 
-- Content or product teams who receive Discord ticket logs and want to streamline bug reports, feature requests, or user feedback into actionable summaries.
+- Product teams who receive Discord ticket logs and want to streamline bug reports, feature requests, or user feedback into actionable summaries.
 
-- Community members who want to save, reflect on, or better understand the content of their ticket conversations.
+- Community members who want to reflect on or better understand the content of their ticket conversations.
 
 ## Description
 
@@ -26,7 +28,7 @@ This Chrome extension is designed for Discord ticket transcripts. It cleans up t
 
 ## Selling Points
 
-1. Quick installation, and no login required. Just open the script file in a browser and click to extract.
+1. No login required.
 2. Clean formatting optimized for LLM input or archiving.
 3. Filters out non-essential system/bot messages and emotes.
 4. Focused on Ticket Tool Bot's transcript format for high compatibility.
@@ -34,7 +36,7 @@ This Chrome extension is designed for Discord ticket transcripts. It cleans up t
 
 ## User Stories
 
-### Support Moderators / Mods
+### Support Moderators
 
 1. As a community support moderator, I want to extract an important ticket conversation my colleague handled so that I can summarize it with ChatGPT to catch up.
 2. As a support moderator, I want to generate a clear, short title for each ticket so that I can label it quickly and consistently.
@@ -44,22 +46,22 @@ This Chrome extension is designed for Discord ticket transcripts. It cleans up t
 ### Admins / Leads / Founders
 
 1. As a server admin, I want to archive and organize ticket transcripts so that I can reference them later in case of disputes.
-2. As a server admin, I want cleaner transcript content without emojis and system clutter so that LLMs produce more accurate summaries. 
+2. As a server admin, I want cleaner transcript content without emojis and system clutter so that LLMs produce more accurate summaries.
 3. As a server admin, I want to evaluate how effectively mods handle tickets so that I can provide better training or adjust workflows.
-4. As a mod lead, I want to create summaries of user issues so that I can present them in team meetings.
-5. As a support lead, I want to review summarized versions of tickets from the past week so that I can identify patterns and improve our response templates.
+4. As a moderator lead, I want to create summaries with keypoints of user issues so that I can present them in team meetings.
+5. As a support lead, I want to review shortened versions of tickets from the past week so that I can identify patterns and improve our response templates.
 6. As a community lead, I want to effectively track how often similar questions appear in tickets so that I can recommend better onboarding or documentation.
 
 ### Community Managers
 
 1. As a community manager, I want to extract entire support conversations so that I can create FAQ entries or documentation.
 2. As a community manager, I want to generate a quick summary of a ticket so that I can report common issues to the team without reading the full transcript.
+3. As an HR manager for a small start-up, I want to keep a record of tickets from my community so that I can recommend features to implement.
 
 ### Community Members
 
-1. As a community member, I want to export a clean ticket transcript when I receive a warning so that I can reference it if the issue comes up again.
+1. As a community member, I want to extract a clean ticket transcript when I receive a warning so that I can reference it if the issue comes up again.
 2. As a community member, I want to summarize my interaction with moderators so that I can reflect on the situation or share it with someone I trust.
-3. As a community member, I want to download a summary of my support ticket so that I can keep a record of what steps were taken to help me.
 
 ## Notes
 
